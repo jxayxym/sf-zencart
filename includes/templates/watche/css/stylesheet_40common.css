@@ -1,0 +1,12 @@
+/**
+ * Main CSS Stylesheet
+ *
+ */
+.layout_site_width{width:1000px;margin:auto;}
+.c_teal{color:teal;}
+.fw_bold{font-weight:bold;}
+.mb10{margin-bottom:10px;}
+.hoverUnderline:hover{text-decoration:underline;}
+.hoverLineThrough:hover{text-decoration:line-through;}
+
+.cssButton{background:#158c82;color:#fff;cursor:pointer;border:0px dotted;padding:0 20px 0 20px;height:30px;line-height:30px;text-decoration: none;-webkit-border-radius: 2px;-moz-border-radius: 2px;border-radius: 2px;display:inline-block;}

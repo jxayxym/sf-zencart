@@ -1,0 +1,75 @@
+/**
+ * Main CSS Stylesheet
+ *
+ */
+.layout_site_width{width:1000px;margin:auto;}
+.new_products_item{position:relative;display:inline-block;}
+.new_product_flag{position:absolute;background:url("../images/index_new_icon.png");}
+.p-r{position:relative;}
+.t-a_c{text-align: center;}
+/*Multiple Label Menu Style*/
+.multiLabelMenu .multiLabelMenu-nav-tab{float:left;padding:10px 5px 10px 5px;border:1px solid #000;margin-right:5px;cursor:pointer;}
+.multiLabelMenu .multiLabelMenu-nav{margin:0;padding;0;}
+.multiLabelMenu .tab_selected{border-bottom:1px solid #fff;z-index:2;position:relative;}
+.multiLabelMenu .multiLabelMenu-concent{clear:left;border:1px solid #000;margin:0;padding:10px 5px 10px 5px;position:relative;top:-1px;display:none;}
+.multiLabelMenu .content_selected{display:block;}
+/*Multiple Label Menu Style Vertical*/
+.vertical_menu{width:990px;background:#f4f4f4;padding:5px;opacity:1;border:1px solid #ddd;}
+.vertical_menu .multiLabelMenu-nav{margin:0;padding;0;float:left;width:200px;}
+.vertical_menu .multiLabelMenu-nav-tab{width:100%;border:none;text-align:center;color:#000;font-weight:bold;cursor:pointer;background:#990000;color:#fff;}
+.vertical_menu .multiLabelMenu-nav-tab div{padding:5px;}
+.vertical_menu .tab_selected{}
+.vertical_menu .multiLabelMenu-concent{float:left;width:790px;border:none;min-height:300px;display:none;background:#f4f4f4;}
+.vertical_menu .content_selected{display:block;}
+/*table th style-1*/
+.ress{border:1px solid #ccc;}
+.ress_tit{background:#f1f1f1}
+.ress th{border:none;border-bottom:1px solid #ccc;}
+.ress td{border-bottom:1px solid #ccc;}
+/*table style-2*/
+.tabel_style2,.tabel_style2 td,.tabel_style2 th{border:none;}
+.tabel_style2 th{background:#cc2200;height:25px;}
+.tabel_style2 th.first_th{border-top-left-radius:10px;}
+.tabel_style2 th.last_th{border-top-right-radius:10px;}
+
+/*page*/
+.navSplitPagesResult {padding:10px 0 10px 0;text-align:center;color:#666666;}
+.navSplitPagesLinks {padding:20px 0 20px 0;text-align: center;background:#f2f2f2;margin: 5px 13px 5px 7px;border-top-left-radius: 10px;border-top-right-radius: 10px;border-bottom-left-radius: 10px;border-bottom-right-radius: 10px;}
+.navSplitPagesLinks a{
+min-width: 20px;
+border-radius: 3px;
+border: 1px solid #c3c3c3;
+text-align: center;
+padding: 5px 5px 5px 5px;
+margin: 0px 4px 0px 4px;
+display: inline-block;
+background-color: #fff;
+font-size: 13px;
+}
+.navSplitPagesLinks a:hover{border:1px solid #900;color:#900;}
+.currentPage{min-width: 20px;border-radius: 3px;padding: 5px 5px 5px 5px;margin: 0px 4px 0px 4px;display: inline-block;font-size: 13px;color: #FFFFFF;background-color: #3a3a3a;border: 1px solid #3a3a3a;}
+.prevBackDisabled{
+min-width: 20px;
+border-radius: 3px;
+border: 1px solid #c3c3c3;
+text-align: center;
+padding: 5px 5px 5px 5px;
+margin: 0px 4px 0px 4px;
+display: inline-block;
+background-color: #f2f2f2;
+font-size: 13px;
+color: #999;
+}
+.navNextPrevCounter {
+	margin: 0em;
+	font-size: 0.9em;
+	}
+.navNextPrevList {
+	display: inline;
+	white-space: nowrap;
+	margin: 0;
+	padding:  0.5em 0em;
+	list-style-type: none;
+	}
+	
+.mr10{margin-right:10px;}	

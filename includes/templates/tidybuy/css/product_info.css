@@ -1,0 +1,8 @@
+@CHARSET "UTF-8";
+.featuresleft{
+    height:24px;width:150px; border-bottom:dotted 1px #cacaca;clear:both;float:left; padding-left:3px; padding-top:6px;font-weight:bold;padding-right:12px
+}
+
+.featuresright{
+    height:24px;width:200px;border-bottom:dotted 1px #cacaca;float:left;  padding-top:6px;padding-right:30px;
+}

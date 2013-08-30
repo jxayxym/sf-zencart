@@ -1,0 +1,54 @@
+/**
+ * CSS Buttons Stylesheet
+ *
+ * Thanks to paulm for much of the content of the CSS buttons code
+ *
+ * @package templateSystem
+ * @copyright Copyright 2003-2005 Zen Cart Development Team
+ * @copyright Portions Copyright 2003 osCommerce
+ * @license http://www.zen-cart.com/license/2_0.txt GNU Public License V2.0
+ * @version $Id: stylesheet_css_buttons.css 2765 2006-01-01 21:15:45Z birdbrain $
+ */
+
+/* css buttons */
+.cssButton, .cssButtonHover {
+background-color: #bd362f;
+background-image: -ms-linear-gradient(top, #ee5f5b, #bd362f);
+background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#ee5f5b), to(#bd362f));
+background-image: -webkit-linear-gradient(top, #ee5f5b, #bd362f);
+background-image: -o-linear-gradient(top, #ee5f5b, #bd362f);
+background-image: -moz-linear-gradient(top, #ee5f5b, #bd362f);
+background-image: linear-gradient(top, #ee5f5b, #bd362f);
+border-color: #bd362f #bd362f #802420;
+border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);		
+color : #fff;
+text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);	
+font-size: 1.1em;
+text-align:center;
+text-decoration: none;
+font-weight: bold;
+padding: 5px;
+display:inline-block;
+border:none;
+border-radius:3px;	
+}
+
+.cssButton:hover{
+background-color: #bd362f;
+background-image: -ms-linear-gradient(top, #ee5f5b, #bd362f);
+background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#ee5f5b), to(#bd362f));
+background-image: -webkit-linear-gradient(top,#bd362f, #ee5f5b);
+background-image: -o-linear-gradient(top, #ee5f5b, #bd362f);
+background-image: -moz-linear-gradient(top, #ee5f5b, #bd362f);
+background-image: linear-gradient(top, #ee5f5b, #bd362f);	
+}
+
+.cssButtonHover {
+color: #616161;
+border-style: inset;
+text-decoration: none;
+}
+/* adding the styles below might be needed if the default button width is changed */
+.button_update_cart {color: red;}
+.button_update_cartHover {color: black;}
+/*.innerbox#headernavcenter .boxtext .button_search {display:inline;}*/

@@ -5,7 +5,7 @@
 
 Options +FollowSymLinks
 RewriteEngine on
-RewriteBase /zencart/
+RewriteBase /sf-zencart/
 #RewriteCond %{HTTP_HOST} ^zc.developing [NC] 
 #RewriteRule ^(.*) http://www.zc.developing/ [R=301,L] 
 

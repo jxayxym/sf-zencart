@@ -1,0 +1,1 @@
+<script src="<?php echo HTTP_SERVER.DIR_WS_CATALOG.DIR_WS_TEMPLATE.'jscript/jquery-1.8.2.js' ?>" type="text/javascript"></script>

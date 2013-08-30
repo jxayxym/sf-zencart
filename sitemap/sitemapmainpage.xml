@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://www.preowned-weddingdresses.co.uk/includes/templates/tidybuy/css/gss.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<!-- generator="Zen-Cart SitemapXML" 3.2.6 17.06.2012 16:13 -->
+<!-- sitemapmainpage.xml created at 2013-08-22 09:51:15 -->
+ <url>
+  <loc>http://www.preowned-weddingdresses.co.uk/</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.00</priority>
+ </url>
+</urlset>

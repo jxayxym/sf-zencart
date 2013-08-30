@@ -1,0 +1,32 @@
+@CHARSET "UTF-8";
+.social_accounts{
+	list-style: none;
+}
+.socialAccountRow .social_accounts li{
+	float:left;
+	margin-right:10px;
+	height:35px;
+	line-height: 35px;
+	padding-left: 35px;
+	background-image: url("../images/social_accounts_logos.png");
+	background-repeat: no-repeat;	
+}
+.socialAccountRow .social_accounts li a{
+	font-weight: bold;
+	color:#000;
+}
+.social_accounts .social_account_gmail{
+	background-position: 0px -70px;
+}
+.social_accounts .social_account_facebook{
+	background-position: 0px -355px;
+}
+.social_accounts .social_account_hotmail{
+	background-position: 0px -105px;
+}
+.social_accounts .social_account_yahoo{
+	background-position: 0px -323px;
+}
+.social_accounts .social_account_twitter{
+	background-position: 0px -395px;
+}

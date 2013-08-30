@@ -1,0 +1,62 @@
+.cssButton {
+background:transparent;
+border:none;
+text-indent:-9000px;
+display:block;
+margin:3px;
+cursor:pointer;
+}
+/*button send */
+.button_send{background:url('../images/spirit_btn.png') 0 -213px;width:97px;height:32px;border:none;}
+.button_send:hover{background-position:0 -245px}
+
+/*button back*/
+.button_back{background:url('../images/spirit_btn.png') -140px 0;width:97px;height:32px;border:none;}
+.button_back:hover{background-position:-140px -32px}
+
+/*button login*/
+.loginButton,.button_login{background:url('../images/spirit_btn.png') 0 -71px transparent;width:97px;height:32px;border:none;}
+.loginButton:hover,.button_login:hover{background-position:0 -103px;}
+/*button register*/
+.createAccountButton{background:url('../images/spirit_btn.png') 0 -141px transparent;width:97px;height:32px;border:none;}
+.createAccountButton:hover{background-position:0 -173px;}
+/*button add address*/
+.button_add_address{background:url('../images/spirit_btn.png') -140px -71px transparent;width:128px;height:32px;border:none;}
+.button_add_address:hover{background-position:-140px -105px; }
+/*button update*/
+.button_update{background:url('../images/spirit_btn.png') -140px -150px transparent;width:97px;height:32px;border:none;}
+.button_update:hover{background-position:-140px -182px}
+/*button_delete*/
+.button_delete{background:url('../images/spirit_btn.png') -283px -230px transparent;width:97px;height:32px;border:none;}
+.button_delete:hover{background-position:-283px -265px}
+/*button submit*/
+.button_submit{background:url('../images/spirit_btn.png') 0 0 transparent;width:97px;height:32px;border:none;}
+.button_submit:hover{background-position:0 -32px;}
+/*button continue shopping*/
+.button_continue_shopping{text-indent:0;color:#cc2200;}
+.button_continue_shopping:hover{text-decoration:underline;}
+/*button checkout*/
+.button_checkout{background:url('../images/spirit_btn.png') -280px -71px transparent;width:139px;height:32px;border:none;}
+.button_checkout:HOVER{background-position:-280px -103px;}
+/*button continue*/
+.button_continue,.button_continue_checkout{background:url('../images/spirit_btn.png') -140px -230px transparent;width:139px;height:34px;border:none;}
+.button_continue:hover,.button_continue_checkout:hover{background-position:-140px -264px;}
+/*button send here*/
+.button_send_here{background:url('../images/spirit_btn.png') -282px -45px transparent;width:61px;height:18px;border:none;}
+/*button confirm order*/
+.button_confirm_order{background:url('../images/spirit_btn.png') -181px -307px  transparent;width:93px;height:37px;border:none;}
+.button_confirm_order:hover{background-position:-181px -344px;}
+/*send gift Certificate*/
+.button_send_a_gift_cert{background:url('../images/spirit_btn.png') -292px -307px transparent;width:80px;height:32px;border:none;}
+/*button reviews*/
+.button_reviews{background:url('../images/spirit_btn.png') -292px -344px transparent;width:90px;height:36px;border:none;}
+/*button write review*/
+.button_write_review{background:url('../images/spirit_btn.png') -292px -382px transparent;width:90px;height:36px;border:none;}
+
+
+.small_edit{background:url('../images/spirit_btn.png') -283px 0 transparent;width:40px;height:16px;}
+.button_delete_small{background:url('../images/spirit_btn.png') -283px -24px transparent;width:40px;height:16px;}
+.button_change_address{background:url('../images/spirit_btn.png') -394px -307px transparent;width:60px;height:24px;}
+
+.button_update_cart {color: red;}
+.button_update_cartHover {color: black;}

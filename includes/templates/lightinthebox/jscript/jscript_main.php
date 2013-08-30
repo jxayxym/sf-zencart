@@ -1,0 +1,2 @@
+<link rel="stylesheet" href="<?php echo HTTP_SERVER.DIR_WS_CATALOG.DIR_WS_TEMPLATE.'jscript/woothemes-FlexSlider-a4647ed/flexslider.css'?>" />
+<script src="<?php echo HTTP_SERVER.DIR_WS_CATALOG.DIR_WS_TEMPLATE.'jscript/woothemes-FlexSlider-a4647ed/jquery.flexslider-min.js' ?>" type="text/javascript"></script>

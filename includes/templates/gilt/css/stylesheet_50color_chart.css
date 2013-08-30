@@ -1,0 +1,62 @@
+/*color chart*/
+table,td,th{border:none;}
+.relative{position:relative;}
+.right_big_710{width:710px;margin:0 auto;}
+.round_style1_top{width:645px;margin:0 auto;height:39px;line-height:39px;padding-left:50px;font-weight:bold;font-size:18px;color:#000;background:url(../images/round_style1_top1241075245.gif) no-repeat;}
+.round_style1_con{width:645px;margin:0 auto;padding:10px 0px 10px 50px;background:url(../images/round_style1_con1241075227.gif) repeat-y;}
+.round_style1_bot{width:695px;margin:0 auto;height:20px;background:url(../images/round_style1_bot1241075199.gif) no-repeat;}
+.round_style1_con dd{line-height:20px;padding-left:15px;background:url(../images/31241075273.gif) 5px 5px no-repeat;}
+
+.round_style2_top,.round_style2_top2{width:665px;margin:0 auto;height:58px;line-height:58px;font-size:25px;padding-left:30px;color:#fff;background:url(../images/round_style2_top1241076754.gif) no-repeat;}
+.round_style2_top2{width:665px;margin:0 auto;height:80px;line-height:20px;font-size:25px;padding-left:30px;color:#fff;background:url(../images/round_style2_top21241088588.gif) no-repeat;}
+
+.round_style2_con{width:695px;margin:0 auto;padding-top:10px;}
+.round_style2_bot{width:695px;margin:0 auto;height:20px;background:url(../images/round_style2_bot1241076727.gif) no-repeat;}
+
+.round_style3_top{width:636px;margin:0 auto;height:42px;line-height:50px;padding-left:40px;font-size:21px;color:#A72D2C;background:url(../images/round_style3_top1241076838.jpg) no-repeat;}
+.round_style3_tit{width:676px;margin:0 auto;height:32px;line-height:32px;background:url(../images/round_style3_tit1241076826.jpg) repeat-y;}
+.round_style3_con{width:676px;height:189px;margin:0 auto;background:url(../images/round_style3_con1241076812.jpg) repeat-y;}
+.round_style3_bot{width:676px;margin:0 auto;height:56px;background:url(../images/round_style3_bot1241076792.jpg) no-repeat;line-height:40px;}
+.round_style3_con .bigimg{position:absolute;top:20px;left:40px;width:157px;height:157px;background:url(../images/loading_img_s1241076863.gif) center center no-repeat;}
+.round_style3_con .bigimg img{width:157px;height:157px;}
+.round_style3_con .mimg{position:absolute;width:36px;height:36px;overflow:hidden;cursor:pointer;background:url(../images/color1242037072.gif) no-repeat;display:none;}
+.round_style3_con .mimg img{width:36px;height:36px;}
+.round_style3_con .mimgtext {width:44px;height:18px;line-height:18px;position:absolute;overflow:hidden;text-align:center;font-size:10px;cursor:pointer;}
+.t1{top:14px;}
+.t2{top:50px;}
+.t3{top:74px;}
+.t4{top:110px;}
+.t5{top:132px;}
+.t6{top:168px;}
+.l1{left:227px;}
+.l2{left:223px;}
+.l3{left:274px;}
+.l4{left:270px;}
+.l5{left:321px;}
+.l6{left:317px;}
+.l7{left:368px;}
+.l8{left:364px;}
+.l9{left:415px;}
+.l10{left:411px;}
+.l11{left:462px;}
+.l12{left:458px;}
+.l13{left:509px;}
+.l14{left:505px;}
+.l15{left:556px;}
+.l16{left:552px;}
+.l17{left:605px;}
+.l18{left:601px;}
+
+.round_style4_top,.round_style4_top2{width:636px;margin:0 auto;height:81px;line-height:20px;padding-left:40px;color:#A72D2C;background:url(../images/round_style4_top1241088640.gif) no-repeat;}
+.round_style4_top2{width:636px;margin:0 auto;height:16px;background:url(../images/round_style4_top21241088650.jpg) no-repeat;}
+.round_style4_con{width:656px;margin:0 auto;background:url(../images/round_style4_con1241088663.gif) repeat-y;padding-left:20px;}
+.round_style4_bot{width:676px;margin:0 auto;height:29px;background:url(../images/round_style4_bot1241088674.gif) no-repeat;line-height:40px;}
+
+.table001 td{font-size:14px;color:#000;text-align:center;line-height:32px;font-weight:bold;}
+.samplename{line-height:20px;border:1px solid #C6C6C6;background:#fff;height:18px;vertical-align:middle;width:110px;text-align:center;font-size:14px;color:#000;overflow:hidden;}
+.title_01{background:url(../images/line1241076878.gif) right top repeat-y;padding-right:20px;}
+.table_style_1 td{font-size:10px;line-height:14px;font-weight:font-weight:normal;}
+.table_style_1 td.tit{font-weight:bold;}
+#webTable {border:1px solid #ddd; border-width:1px 1px 0 0; background:url(../images/bbg1242888484.gif);}
+.table_style_1 td {padding:2px 4px;}
+.STYLE1 {font-size: 16px}@CHARSET "UTF-8";

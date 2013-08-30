@@ -1,0 +1,39 @@
+@CHARSET "UTF-8";
+.category_item{
+	padding:0 5px 5px 5px;
+	position:relative;
+}
+.category_item-title{
+	filter:alpha(opacity=85);
+	position:absolute;
+	color:#EBEBE8;
+	background:black;
+	background:rgba(0, 0, 0, 0.7);
+	width:300px;
+	padding-top:10px;
+	padding-bottom:10px;
+	font-size:15px;
+	font-weight: bold;
+}
+.category_item:HOVER .category_item-title {
+	background:#C98702;
+}
+.category_item-desc{
+	filter:alpha(opacity=85);
+	position:absolute;
+	color:#EBEBE8;
+	background:#F2F2EE;
+	background:rgba(235, 235, 232, 0.3);
+	width:300px;
+	font-size:8px;
+	bottom:5px;
+	visibility: hidden;
+}
+.category_item:HOVER .category_item-desc{
+	padding-top:5px;
+	padding-bottom:5px;	
+	visibility:visible;
+}
+#categories_list_container{
+	padding-left:35px;
+}

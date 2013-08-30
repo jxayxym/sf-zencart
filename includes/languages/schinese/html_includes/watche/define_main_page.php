@@ -1,0 +1,1 @@
+<div class="flexslider"><img src="<?php echo DIR_WS_IMAGES.'banners/home_c/1.jpg' ?>" alt="柔美风格" width="1000px"/></div>

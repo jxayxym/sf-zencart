@@ -1,0 +1,28 @@
+@CHARSET "UTF-8";
+.layout_width{width:1000px;margin:0 auto;}
+.l-s_n{list-style: none;}
+.m0{margin:0;}
+.f-w_b{font-weight: bold;}
+.t-a_c{text-align: center;}
+.w250{width:25%;}
+.c900{color:#900;}
+.f-w_b{font-weight: bold;}
+
+/*products review*/	
+.navProductsPreviewWrapper{position:relative;height:90px;overflow:hidden;width:775px;margin:0 auto 0 auto;}	
+#products_preview_left{background:url("../images/jiantou-left.png") no-repeat 0 0;width:15px;height:20px;margin-top:30px;cursor:pointer;}
+#products_preview_right{background:url("../images/jiantou-right.png") no-repeat 0 0;width:15px;height:20px;margin-top:30px;cursor:pointer;}		
+#products_preview_left:hover{background-position:-45px 0;}
+#products_preview_right:hover{background-position:-45px 0;}
+.products_preview_item{float:left;background:url('../images/loading_img_s1241076863.gif') no-repeat -15px 0;padding:2px;margin:0 4px 0 3px;width:80px;height:80px;border:1px solid #999;overflow:hidden;}
+.cur_product{border:1px solid #cc0000;}	
+.products_preview_item_place_hold{width:56px;height:80px;float:left;}	
+.products_preivew_content_wrapper{width:744px;height:90px;float:left;overflow:hidden;}
+#products_preview_containner{width:20000px;height:90px;}
+
+/*Multiple Label Menu Style*/
+.multiLabelMenu .multiLabelMenu-nav-tab{float:left;padding:10px 5px 10px 5px;border:1px solid #000;margin-right:5px;cursor:pointer;}
+.multiLabelMenu .multiLabelMenu-nav{margin:0;padding;0;}
+.multiLabelMenu .tab_selected{border-bottom:1px solid #fff;z-index:2;position:relative;}
+.multiLabelMenu .multiLabelMenu-concent{clear:left;border:1px solid #000;margin:0;padding:10px 5px 10px 5px;position:relative;top:-1px;display:none;}
+.multiLabelMenu .content_selected{display:block;}
