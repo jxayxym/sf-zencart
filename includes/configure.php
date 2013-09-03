@@ -26,7 +26,7 @@
   define('DIR_WS_CATALOG', '/');
   define('DIR_WS_HTTPS_CATALOG', '/');
 
-  define('DIR_WS_IMAGES', 'images/');
+  define('DIR_WS_IMAGES', '../images/');
   define('DIR_WS_INCLUDES', 'includes/');
   define('DIR_WS_FUNCTIONS', DIR_WS_INCLUDES . 'functions/');
   define('DIR_WS_CLASSES', DIR_WS_INCLUDES . 'classes/');

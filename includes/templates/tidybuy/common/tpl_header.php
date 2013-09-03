@@ -18,6 +18,13 @@
  */
 ?>
 
+<!--bof-header logo and navigation display-->
+<?php
+if (!isset($flag_disable_header) || !$flag_disable_header) {
+?>
+<div id="headerWrapper">
+<div class="headerBackground">
+<div id="navTopWrapper">
 <?php
   // Display all header alerts via messageStack:
   if ($messageStack->size('header') > 0) {
@@ -32,14 +39,6 @@
 
 }
 ?>
-
-<!--bof-header logo and navigation display-->
-<?php
-if (!isset($flag_disable_header) || !$flag_disable_header) {
-?>
-<div id="headerWrapper">
-<div class="headerBackground">
-<div id="navTopWrapper">
 	<ul id="navTop" class="layout_site_width">
 		<li id="navCurrencyWrapper" class="back">
 			<div><label>Currency:</label><span class="current_currency"><?php echo $_SESSION['currency'] ?></span></div>

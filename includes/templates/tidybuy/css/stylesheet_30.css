@@ -220,8 +220,8 @@ td{border:none;}
 	padding:  0.5em 0em;
 	list-style-type: none;
 	}
-#navTopWrapper{background:#000;color:#fff;height:35px;line-height:35px;font-weight:bold;position:fixed;top:0;width:100%;z-index:999999;}
-#navTop{list-style:none;margin-top:0;padding:0;display:block;}
+#navTopWrapper{background:#000;color:#fff;font-weight:bold;position:fixed;top:0;width:100%;z-index:999999;}
+#navTop{list-style:none;margin-top:0;padding:0;display:block;height:35px;line-height:35px;}
 #navTop a,#navTop a:visited{color:#fff;}
 #navTop a:active{color:red;}
 #navTop a:hover{text-decoration:underline;}
